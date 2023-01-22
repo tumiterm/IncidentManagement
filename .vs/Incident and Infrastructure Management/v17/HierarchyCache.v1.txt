@@ -1,0 +1,713 @@
+﻿++Solution 'Incident and Infrastructure Management' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:Incident and Infrastructure Management.sln
+++Incident and Infrastructure Management
+i:{00000000-0000-0000-0000-000000000000}:Incident and Infrastructure Management
+++Connected Services 
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:>1339
+++Dependencies
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:>1338
+++Properties
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\properties\
+++wwwroot
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\
+++assets
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\
+++css
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\css\
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\vendors\css\
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\vendors\mdi\css\
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\dist\css\
+++style.css
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\css\style.css
+++fonts
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\fonts\
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\vendors\mdi\fonts\
+++Ubuntu
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\fonts\ubuntu\
+++Ubuntu-Bold.eot
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\fonts\ubuntu\ubuntu-bold.eot
+++Ubuntu-Bold.ttf
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\fonts\ubuntu\ubuntu-bold.ttf
+++Ubuntu-Bold.woff
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\fonts\ubuntu\ubuntu-bold.woff
+++Ubuntu-Bold.woff2
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\fonts\ubuntu\ubuntu-bold.woff2
+++Ubuntu-Light.eot
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\fonts\ubuntu\ubuntu-light.eot
+++Ubuntu-Light.ttf
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\fonts\ubuntu\ubuntu-light.ttf
+++Ubuntu-Light.woff
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\fonts\ubuntu\ubuntu-light.woff
+++Ubuntu-Light.woff2
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\fonts\ubuntu\ubuntu-light.woff2
+++Ubuntu-Medium.eot
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\fonts\ubuntu\ubuntu-medium.eot
+++Ubuntu-Medium.ttf
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\fonts\ubuntu\ubuntu-medium.ttf
+++Ubuntu-Medium.woff
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\fonts\ubuntu\ubuntu-medium.woff
+++Ubuntu-Medium.woff2
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\fonts\ubuntu\ubuntu-medium.woff2
+++Ubuntu-Regular.eot
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\fonts\ubuntu\ubuntu-regular.eot
+++Ubuntu-Regular.ttf
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\fonts\ubuntu\ubuntu-regular.ttf
+++Ubuntu-Regular.woff
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\fonts\ubuntu\ubuntu-regular.woff
+++Ubuntu-Regular.woff2
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\fonts\ubuntu\ubuntu-regular.woff2
+++images
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\
+++dashboard
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\dashboard\
+++faces
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\faces\
+++faces-clipart
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\faces-clipart\
+++sprites
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\sprites\
+++favicon.ico
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\favicon.ico
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\favicon.ico
+++favicon.png
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\favicon.png
+++HvadVS01.svg
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\hvadvs01.svg
+++logo.svg
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\logo.svg
+++logo-mini.svg
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\logo-mini.svg
+++Software House Tech Logo.png
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\software house tech logo.png
+++js
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\js\
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\vendors\js\
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\dist\js\
+++scss
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\scss\
+++vendors
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\vendors\
+++gulp-tasks
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\gulp-tasks\
+++img
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\img\
+++lib
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\
+++bootstrap
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\
+++jquery
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\jquery\
+++jquery-validation
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\jquery-validation-unobtrusive\
+++pages
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\pages\
+++PSD
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\psd\
+++BusinessLayer
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\businesslayer\
+++Contract
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\contract\
+++Controllers
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\controllers\
+++Helper
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\helper\
+++Migrations
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\migrations\
+++Models
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\models\
+++Data
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\models\data\
+++ApplicationDbContext.cs
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\models\data\applicationdbcontext.cs
+++eConfig
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\models\econfig\
+++Address.cs
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\models\address.cs
+++Availability.cs
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\models\availability.cs
+++Base.cs
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\models\base.cs
+++Company.cs
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\models\company.cs
+++Contact.cs
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\models\contact.cs
+++Department.cs
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\models\department.cs
+++ErrorViewModel.cs
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\models\errorviewmodel.cs
+++Incident.cs
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\models\incident.cs
+++IncidentReport.cs
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\models\incidentreport.cs
+++Learner.cs
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\models\learner.cs
+++ServiceGroup.cs
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\models\servicegroup.cs
+++Student.cs
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\models\student.cs
+++Supervisor.cs
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\models\supervisor.cs
+++User.cs
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\models\user.cs
+++Services
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\services\
+++ViewModel
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\viewmodel\
+++Views
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\views\
+++appsettings.json
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\appsettings.json
+++Program.cs
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\program.cs
+++No service dependencies discovered
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:>1340
+++Analyzers
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:analyzers
+++Frameworks
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:frameworks
+++Packages
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:packages
+++launchSettings.json
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\properties\launchsettings.json
+++style.css.map
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\css\style.css.map
+++circle.png
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\dashboard\circle.png
+++circle.svg
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\dashboard\circle.svg
+++img_1.jpg
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\dashboard\img_1.jpg
+++img_2.jpg
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\dashboard\img_2.jpg
+++img_3.jpg
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\dashboard\img_3.jpg
+++img_4.jpg
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\dashboard\img_4.jpg
+++face1.jpg
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\faces\face1.jpg
+++face10.jpg
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\faces\face10.jpg
+++face11.jpg
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\faces\face11.jpg
+++face12.jpg
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\faces\face12.jpg
+++face13.jpg
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\faces\face13.jpg
+++face14.jpg
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\faces\face14.jpg
+++face15.jpg
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\faces\face15.jpg
+++face16.jpg
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\faces\face16.jpg
+++face17.jpg
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\faces\face17.jpg
+++face18.jpg
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\faces\face18.jpg
+++face19.jpg
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\faces\face19.jpg
+++face2.jpg
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\faces\face2.jpg
+++face20.jpg
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\faces\face20.jpg
+++face21.jpg
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\faces\face21.jpg
+++face22.jpg
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\faces\face22.jpg
+++face23.jpg
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\faces\face23.jpg
+++face24.jpg
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\faces\face24.jpg
+++face25.jpg
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\faces\face25.jpg
+++face26.jpg
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\faces\face26.jpg
+++face27.jpg
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\faces\face27.jpg
+++face3.jpg
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\faces\face3.jpg
+++face4.jpg
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\faces\face4.jpg
+++face5.jpg
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\faces\face5.jpg
+++face6.jpg
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\faces\face6.jpg
+++face7.jpg
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\faces\face7.jpg
+++face8.jpg
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\faces\face8.jpg
+++face9.jpg
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\faces\face9.jpg
+++pic-1.png
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\faces-clipart\pic-1.png
+++pic-2.png
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\faces-clipart\pic-2.png
+++pic-3.png
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\faces-clipart\pic-3.png
+++pic-4.png
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\faces-clipart\pic-4.png
+++blue.png
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\sprites\blue.png
+++dark.png
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\sprites\dark.png
+++flag.png
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\sprites\flag.png
+++green.png
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\sprites\green.png
+++jsgrid-icons.png
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\sprites\jsgrid-icons.png
+++red.png
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\sprites\red.png
+++yellow.png
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\images\sprites\yellow.png
+++chart.js
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\js\chart.js
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\vendors\chart.js\
+++dashboard.js
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\js\dashboard.js
+++file-upload.js
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\js\file-upload.js
+++hoverable-collapse.js
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\js\hoverable-collapse.js
+++jquery.cookie.js
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\js\jquery.cookie.js
+++misc.js
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\js\misc.js
+++off-canvas.js
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\js\off-canvas.js
+++todo.js
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\js\todo.js
+++todolist.js
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\js\todolist.js
+++components
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\scss\components\
+++landing-screens
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\scss\landing-screens\
+++mixins
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\scss\mixins\
+++_dashboard.scss
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\scss\_dashboard.scss
+++_demo.scss
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\scss\_demo.scss
+++_fonts.scss
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\scss\_fonts.scss
+++_footer.scss
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\scss\_footer.scss
+++_functions.scss
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\scss\_functions.scss
+++_layouts.scss
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\scss\_layouts.scss
+++_misc.scss
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\scss\_misc.scss
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\scss\mixins\_misc.scss
+++_navbar.scss
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\scss\_navbar.scss
+++_reset.scss
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\scss\_reset.scss
+++_sidebar.scss
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\scss\_sidebar.scss
+++_typography.scss
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\scss\_typography.scss
+++_utilities.scss
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\scss\_utilities.scss
+++_variables.scss
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\scss\_variables.scss
+++_vertical-wrapper.scss
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\scss\_vertical-wrapper.scss
+++_widget-grid.scss
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\scss\_widget-grid.scss
+++style.scss
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\scss\style.scss
+++mdi
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\vendors\mdi\
+++inject.js
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\gulp-tasks\inject.js
+++serve.js
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\gulp-tasks\serve.js
+++vendors.js
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\gulp-tasks\vendors.js
+++12acbd59-5f35-4ac4-9c8c-086d2e275bf3_Screenshot (187).png
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\img\12acbd59-5f35-4ac4-9c8c-086d2e275bf3_screenshot (187).png
+++408b3f86-b2a1-4213-9254-56c76043679d_Screenshot (187).png
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\img\408b3f86-b2a1-4213-9254-56c76043679d_screenshot (187).png
+++b1743d08-b578-4856-85d5-123d56ef698e_Screenshot (187).png
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\img\b1743d08-b578-4856-85d5-123d56ef698e_screenshot (187).png
+++f2b6350f-d8e8-432f-a046-fa9374560945_Screenshot (187).png
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\img\f2b6350f-d8e8-432f-a046-fa9374560945_screenshot (187).png
+++dist
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\dist\
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\jquery\dist\
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\jquery\license.txt
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++charts
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\pages\charts\
+++forms
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\pages\forms\
+++icons
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\pages\icons\
+++samples
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\pages\samples\
+++tables
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\pages\tables\
+++ui-features
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\pages\ui-features\
+++Purple_dashboard_free.psd
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\psd\purple_dashboard_free.psd
+++CompanyRepository.cs
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\businesslayer\companyrepository.cs
+++DepartmentRepository.cs
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\businesslayer\departmentrepository.cs
+++IncidentRepository.cs
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\businesslayer\incidentrepository.cs
+++StudentRepository.cs
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\businesslayer\studentrepository.cs
+++SupervisorRepository.cs
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\businesslayer\supervisorrepository.cs
+++IStudent.cs
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\contract\istudent.cs
+++IUnitofWork.cs
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\contract\iunitofwork.cs
+++API
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\controllers\api\
+++CompanyController.cs
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\controllers\companycontroller.cs
+++DepartmentController.cs
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\controllers\departmentcontroller.cs
+++HomeController.cs
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\controllers\homecontroller.cs
+++IncidentController.cs
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\controllers\incidentcontroller.cs
+++StudentController.cs
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\controllers\studentcontroller.cs
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\controllers\api\studentcontroller.cs
+++SupervisorController.cs
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\controllers\supervisorcontroller.cs
+++StudentAPIHelper.cs
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\helper\studentapihelper.cs
+++Utility.cs
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\helper\utility.cs
+++20220816081558_InitialMigration.cs
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\migrations\20220816081558_initialmigration.cs
+++ApplicationDbContextModelSnapshot.cs
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\migrations\applicationdbcontextmodelsnapshot.cs
+++eConfigs.cs
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\models\econfig\econfigs.cs
+++SMSService.cs
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\services\smsservice.cs
+++CompanyViewModel.cs
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\viewmodel\companyviewmodel.cs
+++EnrollmentHistoryViewModel.cs
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\viewmodel\enrollmenthistoryviewmodel.cs
+++SMSViewModel.cs
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\viewmodel\smsviewmodel.cs
+++StudentViewModel.cs
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\viewmodel\studentviewmodel.cs
+++Company
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\views\company\
+++Department
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\views\department\
+++Home
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\views\home\
+++Incident
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\views\incident\
+++Shared
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\views\shared\
+++Student
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\views\student\
+++Supervisor
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\views\supervisor\
+++_ViewImports.cshtml
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\views\_viewstart.cshtml
+++appsettings.Development.json
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\appsettings.development.json
+++MessagePackAnalyzer
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.AspNetCore.Analyzers
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.6\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\microsoft.netcore.app
+++Microsoft.AspNetCore.Authentication.JwtBearer (6.0.7)
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:>1354
+++Microsoft.EntityFrameworkCore (6.0.6)
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:>1351
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.6)
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:>1352
+++Microsoft.EntityFrameworkCore.Tools (6.0.6)
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:>1355
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.8)
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:>1358
+++NonFactors.Grid.Mvc6 (7.0.1)
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:>1356
+++RestSharp (108.0.1)
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:>1357
+++Swashbuckle.AspNetCore (6.3.0)
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:>1353
+++SweetAlert (1.0.0)
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:>1374
+++_badges.scss
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\scss\components\_badges.scss
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\scss\mixins\_badges.scss
+++_bootstrap-progress.scss
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\scss\components\_bootstrap-progress.scss
+++_breadcrumbs.scss
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\scss\components\_breadcrumbs.scss
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\scss\mixins\_breadcrumbs.scss
+++_buttons.scss
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\scss\components\_buttons.scss
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\scss\mixins\_buttons.scss
+++_cards.scss
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\scss\components\_cards.scss
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\scss\mixins\_cards.scss
+++_checkbox-radio.scss
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\scss\components\_checkbox-radio.scss
+++_dropdown.scss
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\scss\components\_dropdown.scss
+++_forms.scss
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\scss\components\_forms.scss
+++_icons.scss
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\scss\components\_icons.scss
+++_lists.scss
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\scss\components\_lists.scss
+++_preview.scss
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\scss\components\_preview.scss
+++_tables.scss
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\scss\components\_tables.scss
+++_todo-list.scss
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\scss\components\_todo-list.scss
+++_auth.scss
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\scss\landing-screens\_auth.scss
+++_animation.scss
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\scss\mixins\_animation.scss
+++_background.scss
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\scss\mixins\_background.scss
+++_blockqoute.scss
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\scss\mixins\_blockqoute.scss
+++_pagination.scss
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\scss\mixins\_pagination.scss
+++_popovers.scss
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\scss\mixins\_popovers.scss
+++_text.scss
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\scss\mixins\_text.scss
+++_tooltips.scss
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\scss\mixins\_tooltips.scss
+++Chart.min.js
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\vendors\chart.js\chart.min.js
+++vendor.bundle.base.css
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\vendors\css\vendor.bundle.base.css
+++bootstrap.min.js.map
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\vendors\js\bootstrap.min.js.map
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++vendor.bundle.base.js
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\vendors\js\vendor.bundle.base.js
+++jquery.js
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++chartjs.html
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\pages\charts\chartjs.html
+++basic_elements.html
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\pages\forms\basic_elements.html
+++mdi.html
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\pages\icons\mdi.html
+++blank-page.html
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\pages\samples\blank-page.html
+++error-404.html
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\pages\samples\error-404.html
+++error-500.html
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\pages\samples\error-500.html
+++login.html
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\pages\samples\login.html
+++register.html
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\pages\samples\register.html
+++basic-table.html
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\pages\tables\basic-table.html
+++buttons.html
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\pages\ui-features\buttons.html
+++typography.html
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\pages\ui-features\typography.html
+++20220816081558_InitialMigration.Designer.cs
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\migrations\20220816081558_initialmigration.designer.cs
+++RegisterCompany.cshtml
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\views\company\registercompany.cshtml
+++AddDepartment.cshtml
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\views\department\adddepartment.cshtml
+++Index.cshtml
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\views\home\index.cshtml
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\views\student\index.cshtml
+++Privacy.cshtml
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\views\home\privacy.cshtml
+++Delete.cshtml
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\views\incident\delete.cshtml
+++OnGetIncidentDetail.cshtml
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\views\incident\ongetincidentdetail.cshtml
+++OnGetIncidentsList.cshtml
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\views\incident\ongetincidentslist.cshtml
+++OnLogIncident.cshtml
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\views\incident\onlogincident.cshtml
+++UpdateIncidentDetails.cshtml
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\views\incident\updateincidentdetails.cshtml
+++_Layout.cshtml
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\views\shared\error.cshtml
+++StudentDetails.cshtml
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\views\student\studentdetails.cshtml
+++StudentList.cshtml
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\views\student\studentlist.cshtml
+++RegisterSupervisor.cshtml
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\views\supervisor\registersupervisor.cshtml
+++materialdesignicons.min.css
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\vendors\mdi\css\materialdesignicons.min.css
+++materialdesignicons-webfont.eot
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\vendors\mdi\fonts\materialdesignicons-webfont.eot
+++materialdesignicons-webfont.ttf
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\vendors\mdi\fonts\materialdesignicons-webfont.ttf
+++materialdesignicons-webfont.woff
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\vendors\mdi\fonts\materialdesignicons-webfont.woff
+++materialdesignicons-webfont.woff2
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\vendors\mdi\fonts\materialdesignicons-webfont.woff2
+++bootstrap.css
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++_Layout.cshtml.css
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\views\shared\_layout.cshtml.css
+++materialdesignicons.min.css.map
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\assets\vendors\mdi\css\materialdesignicons.min.css.map
+++bootstrap.css.map
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.rtl.min.css.map
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++11cc8c94-d74f-4505-a1e4-0c602691cc23_IMG_7820-scaled.jpg
+i:{332a72b1-18a5-4c5b-af49-df544ffc0dd2}:c:\users\fortunate\desktop\projects\web\incident and infrastructure management\incident and infrastructure management\wwwroot\img\11cc8c94-d74f-4505-a1e4-0c602691cc23_img_7820-scaled.jpg

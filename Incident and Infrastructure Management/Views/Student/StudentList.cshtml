@@ -1,0 +1,89 @@
+﻿@model IEnumerable<Incident_and_Infrastructure_Management.Models.Student>
+
+<style>
+   table{
+       padding:15px;
+   }
+   .alert{
+       padding:15px;
+   }
+
+</style>
+
+
+@{
+    ViewData["Title"] = "StudentList";
+}
+
+<br />
+
+<div class="alert alert-secondary ml-5 mr-5" role="alert">
+  <strong class="text-center">
+     A collection of all registered students in Forek Institute of Technology
+  </strong>
+</div>
+
+<table class="table mr-5 ml-5 table-striped" id="datatablesSimple">
+    <thead class="table-dark">
+        <tr>
+          
+            <th>
+                @Html.DisplayNameFor(model => model.StudentNumber)
+            </th>
+           
+            <th>
+                @Html.DisplayNameFor(model => model.FirstName)
+            </th>
+            
+            <th>
+                @Html.DisplayNameFor(model => model.LastName)
+            </th>
+             <th>
+                @Html.DisplayNameFor(model => model.IDNumber)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.Cellphone)
+            </th>
+              
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            
+            <td>
+                @Html.DisplayFor(modelItem => item.StudentNumber)
+            </td>
+            
+            <td>
+                @Html.DisplayFor(modelItem => item.FirstName)
+            </td>
+           
+            <td>
+                @Html.DisplayFor(modelItem => item.LastName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IDNumber)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.Cellphone)
+            </td>
+
+       
+            
+            <td>
+                <a asp-action="StudentDetails" asp-route-StudentNumber="@item.StudentNumber" asp-route-StudentId="@item.StudentId">Open</a> 
+            </td>
+
+             @*  <td>
+                <a asp-action="StudentDetails" asp-route-Student="@item">Open</a> 
+            </td>*@
+        </tr>
+}
+    </tbody>
+</table>
+
+<script src="~/js/datatables-simple-demo.js"></script>

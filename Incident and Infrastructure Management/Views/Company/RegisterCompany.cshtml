@@ -1,0 +1,208 @@
+﻿@model Incident_and_Infrastructure_Management.Models.ViewModel.CompanyViewModel
+@using Incident_and_Infrastructure_Management.Models.eConfig
+
+<head>
+ <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+</head>
+
+<style>
+    .accordion{
+        padding:5px;
+    }
+    .form-control{
+        border-color: black;
+    }
+    .acchead{
+        background-color: #2774F1
+    }
+
+    .select2-selection__rendered {
+    line-height: 31px !important;
+    }
+    .select2-container .select2-selection--single {
+        height: 35px !important;
+        border-color: black;
+    }
+    .select2-selection__arrow {
+        height: 34px !important;
+    }
+    img{
+  max-width:300px;
+  max-height:150px;
+}
+</style>
+
+
+<br/><div class="accordion" id="accordionExample">
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingOne">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+        Company Details
+      </button>
+    </h2>
+    <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+       <form asp-action="RegisterCompany" enctype="multipart/form-data">
+         <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+         <div class="row">
+            
+             <div class="form-group col-md-6">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group col-md-6">
+                <label asp-for="Icon" class="control-label"></label>
+                <input type="file" accept="image/*,.pdf" asp-for="Icon" onchange="document.getElementById('output').src = window.URL.createObjectURL(this.files[0])" class="form-control"/>
+                <span asp-validation-for="Icon" class="text-danger"></span>
+            </div>
+
+            <div class="col-md-9">
+                <label asp-for="Description" class="control-label"></label>
+                <textarea asp-for="Description" style="height:150px;background-color:#FEF9F9" class="form-control"></textarea>
+            </div>
+
+            <div class="form-group col-md-3">
+               <label class="control-label">Company Logo</label>
+                <img id="output" src="~/assets/img/ImagePlaceholder.png" class="form-control"/>
+            </div>
+            
+         </div>
+
+         <br />
+
+
+ <div class="accordion" id="contactAccordion">
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="contactHeading">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#contactCollapse" aria-expanded="true" aria-controls="contactCollapse">
+        Company Contact Details
+      </button>
+    </h2>
+    <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="contactCollapse" data-bs-parent="#contactAccordion">
+      <div class="accordion-body">
+          <div class="row">
+
+            <div class="form-group col-md-6">
+                <label asp-for="Cellphone" class="control-label"></label>
+                <input asp-for="Cellphone" class="form-control" />
+                <span asp-validation-for="Cellphone" class="text-danger"></span>
+            </div>
+             <div class="form-group col-md-6">
+                <label asp-for="Cellphone2" class="control-label"></label>
+                <input asp-for="Cellphone2" class="form-control" />
+                <span asp-validation-for="Cellphone2" class="text-danger"></span>
+            </div>
+             <div class="form-group col-md-6 flex-nowrap">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" aria-describedby="addon-wrapping" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+          </div><br />
+      </div>
+    </div>
+      
+  </div> 
+</div>
+
+
+
+ <div class="accordion" id="addressAccordion">
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="addressHeading">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#addressCollapse" aria-expanded="true" aria-controls="addressCollapse">
+        Company Address Details
+      </button>
+    </h2>
+    <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="addressCollapse" data-bs-parent="#addressAccordion">
+      <div class="accordion-body">
+          <div class="row">
+
+           <div class="form-group col-md-12">
+                <label asp-for="Type" class="control-label"></label>
+                <select asp-for="Type" class="form-control type" asp-items="Html.GetEnumSelectList<AddressType>()">
+                    <option value="" selected="selected">Select Address Type</option>
+                </select>
+                <span asp-validation-for="Type" class="text-danger"></span>
+            </div>
+
+              <div class="form-group col-md-6">
+                <label asp-for="Province" class="control-label"></label>
+                <select asp-for="Province" class="form-control province" asp-items="Html.GetEnumSelectList<eProvince>()">
+                    <option value="" selected="selected">Select Province</option>
+                </select>
+                <span asp-validation-for="Province" class="text-danger"></span>
+              </div>
+
+              <div class="form-group col-md-6">
+                <label asp-for="Country" class="control-label"></label>
+                <select asp-for="Country" class="form-control country" asp-items="Html.GetEnumSelectList<eCountry>()">
+                     <option value="" selected="selected">Select Country</option>
+                </select>
+                <span asp-validation-for="Country" class="text-danger"></span>
+              </div>
+
+            <div class="form-group col-md-4">
+                <label asp-for="ComplexNum" class="control-label"></label>
+                <input asp-for="ComplexNum" class="form-control" />
+                <span asp-validation-for="ComplexNum" class="text-danger"></span>
+            </div>
+             <div class="form-group col-md-4">
+                <label asp-for="Suburb" class="control-label"></label>
+                <input asp-for="Suburb" class="form-control" />
+                <span asp-validation-for="Suburb" class="text-danger"></span>
+            </div>
+             <div class="form-group col-md-4 flex-nowrap">
+                <label asp-for="PostalCode" class="control-label"></label>
+                <input asp-for="PostalCode" class="form-control" aria-describedby="addon-wrapping" />
+                <span asp-validation-for="PostalCode" class="text-danger"></span>
+            </div>
+          </div><br />
+
+          
+      
+         <div class="form-group" style="background-color:whitesmoke">
+                <button type="submit" class="btn btn-gradient-success btn-fw"><i class="mdi mdi-file-check btn-icon-append"></i> Save</button>
+                <button type="reset" class="btn btn-gradient-warning btn-fw"><i class="mdi mdi-reload btn-icon-prepend"></i> Reset</button>
+                <button type="button" class="btn btn-gradient-danger btn-fw float-end"><i class="mdi mdi-close-circle"></i> Close</button>
+          </div>
+
+
+      </div>
+    </div>
+      
+  </div> 
+</div>
+
+       </form>
+      </div>
+    </div>
+  </div>
+</div>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+
+<script>
+$(document).ready(function() {
+
+    var loadFile = function(event) {
+    var reader = new FileReader();
+    reader.onload = function(){
+      var output = document.getElementById('output');
+      output.src = reader.result;
+    };
+    reader.readAsDataURL(event.target.files[0]);
+  };
+
+
+  $('.country').select2();
+  $('.province').select2();
+  $('.type').select2();
+
+});
+
+</script>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

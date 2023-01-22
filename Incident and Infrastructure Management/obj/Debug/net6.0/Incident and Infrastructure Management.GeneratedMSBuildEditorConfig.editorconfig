@@ -1,0 +1,96 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Incident_and_Infrastructure_Management
+build_property.RootNamespace = Incident_and_Infrastructure_Management
+build_property.ProjectDir = C:\Users\Fortunate\Desktop\Projects\Web\Incident and Infrastructure Management\Incident and Infrastructure Management\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Fortunate\Desktop\Projects\Web\Incident and Infrastructure Management\Incident and Infrastructure Management
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Fortunate/Desktop/Projects/Web/Incident and Infrastructure Management/Incident and Infrastructure Management/Views/Company/RegisterCompany.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxSZWdpc3RlckNvbXBhbnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fortunate/Desktop/Projects/Web/Incident and Infrastructure Management/Incident and Infrastructure Management/Views/Department/AddDepartment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxBZGREZXBhcnRtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fortunate/Desktop/Projects/Web/Incident and Infrastructure Management/Incident and Infrastructure Management/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fortunate/Desktop/Projects/Web/Incident and Infrastructure Management/Incident and Infrastructure Management/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fortunate/Desktop/Projects/Web/Incident and Infrastructure Management/Incident and Infrastructure Management/Views/Incident/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5jaWRlbnRcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fortunate/Desktop/Projects/Web/Incident and Infrastructure Management/Incident and Infrastructure Management/Views/Incident/OnGetIncidentDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5jaWRlbnRcT25HZXRJbmNpZGVudERldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fortunate/Desktop/Projects/Web/Incident and Infrastructure Management/Incident and Infrastructure Management/Views/Incident/OnGetIncidentsList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5jaWRlbnRcT25HZXRJbmNpZGVudHNMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fortunate/Desktop/Projects/Web/Incident and Infrastructure Management/Incident and Infrastructure Management/Views/Incident/OnLogIncident.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5jaWRlbnRcT25Mb2dJbmNpZGVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fortunate/Desktop/Projects/Web/Incident and Infrastructure Management/Incident and Infrastructure Management/Views/Incident/UpdateIncidentDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5jaWRlbnRcVXBkYXRlSW5jaWRlbnREZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fortunate/Desktop/Projects/Web/Incident and Infrastructure Management/Incident and Infrastructure Management/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fortunate/Desktop/Projects/Web/Incident and Infrastructure Management/Incident and Infrastructure Management/Views/Shared/_NotificationPanel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb25QYW5lbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fortunate/Desktop/Projects/Web/Incident and Infrastructure Management/Incident and Infrastructure Management/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fortunate/Desktop/Projects/Web/Incident and Infrastructure Management/Incident and Infrastructure Management/Views/Student/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fortunate/Desktop/Projects/Web/Incident and Infrastructure Management/Incident and Infrastructure Management/Views/Student/StudentDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxTdHVkZW50RGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fortunate/Desktop/Projects/Web/Incident and Infrastructure Management/Incident and Infrastructure Management/Views/Student/StudentList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxTdHVkZW50TGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fortunate/Desktop/Projects/Web/Incident and Infrastructure Management/Incident and Infrastructure Management/Views/Supervisor/RegisterSupervisor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwZXJ2aXNvclxSZWdpc3RlclN1cGVydmlzb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fortunate/Desktop/Projects/Web/Incident and Infrastructure Management/Incident and Infrastructure Management/Views/Test/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fortunate/Desktop/Projects/Web/Incident and Infrastructure Management/Incident and Infrastructure Management/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fortunate/Desktop/Projects/Web/Incident and Infrastructure Management/Incident and Infrastructure Management/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fortunate/Desktop/Projects/Web/Incident and Infrastructure Management/Incident and Infrastructure Management/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-69l799ejk0

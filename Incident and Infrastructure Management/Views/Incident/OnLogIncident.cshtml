@@ -1,0 +1,238 @@
+﻿@using Incident_and_Infrastructure_Management.Models.eConfig
+@model Incident_and_Infrastructure_Management.Models.Incident
+<head>
+    <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+
+</head>
+<style>
+
+    .form-control{
+        border-color: black;
+    }
+    .acchead{
+        background-color: #2774F1
+    }
+
+    .select2-selection__rendered {
+    line-height: 31px !important;
+    }
+    .select2-container .select2-selection--single {
+        height: 38px !important;
+        border-color: black;
+        border-left:solid 5px green;
+
+    }
+    .select2-selection__arrow {
+        height: 34px !important;
+    }
+
+    .desc,.form-control{
+        border-left:solid 5px green;
+    }
+</style>
+@{
+    ViewData["Title"] = "Log Incident";
+}
+
+
+
+
+<div class="accordion" id="accordionExample">
+  <div class="accordion-item">
+    <h2 class="accordion-header acchead" id="headingOne">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne"><i class="fa fa-book mr-1"></i>  Incident Details</button>
+    </h2>
+    <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+          <div class="section">
+
+     <div class="col-md-12">
+        <form asp-action="OnLogIncident">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+             <div class="row">
+
+            <div class="form-group">
+                <label asp-for="Service" class="control-label"></label>
+                <select asp-for="Service" class="form-control service"  asp-items="Html.GetEnumSelectList<eService>()">
+                    <option selected="selected" value="">-- Select Service Required --</option>
+                </select>
+                <span asp-validation-for="Service" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <input asp-for="Description" class="form-control desc" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            
+
+                <div class="form-group col-md-4">
+                    <label asp-for="IncidentNumber" class="control-label"></label>
+                    <input asp-for="IncidentNumber" readonly class="form-control" />
+                    <span asp-validation-for="IncidentNumber" class="text-danger"></span>
+                </div>
+
+                <div class="form-group col-md-4">
+                    <label asp-for="Category" class="control-label"></label>
+                    <select asp-for="Category" class="form-control category" asp-items="Html.GetEnumSelectList<eCategory>()">
+                        <option selected="selected" value="">
+                            -- Select Category --
+                        </option>
+                    </select>
+                    <span asp-validation-for="Category" class="text-danger"></span>
+                </div>
+
+               <div class="form-group col-md-4">
+                <label asp-for="State" class="control-label"></label>
+                <select asp-for="State" class="form-control state"  asp-items="Html.GetEnumSelectList<eState>()">
+                    <option selected="selected" value="">-- Select State --</option>
+                </select>
+                <span asp-validation-for="State" class="text-danger"></span>
+            </div>
+           </div>
+            
+            <div class="row">
+
+            <div class="form-group col-md-4">
+                <label asp-for="Urgency" class="control-label"></label>
+                <select asp-for="Urgency" class="form-control urgency"  asp-items="Html.GetEnumSelectList<eUrgency>()">
+                    <option selected="selected" value="">-- Select Urgency --</option>
+                </select>
+                <span asp-validation-for="Urgency" class="text-danger"></span>
+            </div>
+
+            <div class="form-group col-md-4">
+               
+            </div>
+
+            <div class="form-group col-md-4">
+                <label asp-for="Impact" class="control-label"></label>
+                    <select asp-for="Impact" class="form-control impact"  asp-items="Html.GetEnumSelectList<eImpact>()">
+                        <option value="" selected="selected">-- Select Impact --</option>
+                    </select>
+                    <span asp-validation-for="Impact" class="text-danger"></span>
+            </div>
+
+             <div class="form-group col-md-4">
+                   <label asp-for="ResolveStatus" class="control-label"></label>
+                    <input readonly asp-for="ResolveStatus" class="form-control" />
+                    <span asp-validation-for="ResolveStatus" class="text-danger"></span>
+              </div>
+
+            <div class="form-group col-md-4">
+                
+            </div>
+            
+            <div class="form-group col-md-4">
+                <label asp-for="Image" class="control-label"></label>
+                <input type="file" accept="image/*,.pdf" asp-for="UploadImage" class="form-control" />
+                <span asp-validation-for="Image" class="text-danger"></span>
+            </div>
+
+            <div class="form-group col-md-4">
+                <label asp-for="Location" class="control-label"></label>
+                <input asp-for="Location" class="form-control" />
+                <span asp-validation-for="Location" class="text-danger"></span>
+            </div>
+            <div class="form-group col-md-4">
+                
+            </div>
+            <div class="form-group col-md-4">
+                <label asp-for="Date" class="control-label"></label>
+                <input asp-for="Date" class="form-control" />
+                <span asp-validation-for="Date" class="text-danger"></span>
+            </div>
+
+            </div>
+            <hr />
+
+            <div class="accordion" id="accordionContact">
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="headingTwo">
+                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+                            <i class="fa fa-phone"> </i> Contact Person
+                        </button>
+                    </h2>
+                    <div id="collapseTwo" class="accordion-collapse collapse show" arial-labelledby="headingTwo" data-bs-parent="#accordionContact">
+                        <div class="accordion-body">
+
+
+                            <div class="row">
+                                <div class="form-group col-md-12">
+                                    <label asp-for="ContactType" class="control-label"></label>
+                                    <select asp-for="ContactType" class="form-control contact"  asp-items="Html.GetEnumSelectList<eContactType>()">
+                                        <option selected="selected" value="">-- Select Contact Type --</option>
+                                    </select>
+                                    <span asp-validation-for="ContactType" class="text-danger"></span>
+                                </div>
+
+                                    <div class="form-group col-md-4">
+                                        <label asp-for="ContactPerson" class="control-label"></label>
+                                        <input asp-for="ContactPerson" class="form-control" />
+                                        <span asp-validation-for="ContactPerson" class="text-danger"></span>
+                                    </div>
+
+                                    <div class="form-group col-md-4">
+                                        <label asp-for="Phone" class="control-label"></label>
+                                        <input asp-for="Phone" class="form-control" />
+                                        <span asp-validation-for="Phone" class="text-danger"></span>
+                                    </div>
+
+                                     <div class="form-group col-md-4">
+                                        <label asp-for="Email" class="control-label"></label>
+                                        <input asp-for="Email" class="form-control" />
+                                        <span asp-validation-for="Email" class="text-danger"></span>
+                                    </div>
+     
+                                    <div class="form-group col-md-12">
+                                        <label asp-for="Department" class="control-label"></label>
+                                        <input asp-for="Department" class="form-control" />
+                                        <span asp-validation-for="Department" class="text-danger"></span>
+                                    </div>
+
+                           </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <br />
+            <div class="form-group" style="background-color:whitesmoke">
+                <button type="submit" class="btn btn-gradient-success btn-fw"><i class="mdi mdi-file-check btn-icon-append"></i> Save</button>
+                <button type="reset" class="btn btn-gradient-warning btn-fw"><i class="mdi mdi-reload btn-icon-prepend"></i> Reset</button>
+                <button type="button" class="btn btn-gradient-danger btn-fw float-end"><i class="mdi mdi-close-circle"></i> Close</button>
+            </div>
+        </form>
+    </div>
+</div>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+  <script>
+    $(document).ready(function() {
+      $('.category').select2({
+          theme: "classic"
+      });
+
+      $('.service').select2();
+   
+      $('.state').select2({
+          theme: "classic"
+      });
+      $('.urgency').select2({
+          theme: "classic"
+      });
+      $('.impact').select2({
+          theme: "classic"
+      });
+      $('.resolve').select2();
+      $('.contact').select2();      
+ 
+    });
+</script>
+</div>
+
+
+
+

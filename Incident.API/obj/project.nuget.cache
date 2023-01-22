@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/gRmZBkwFSGqLcoMNfHPYyq/tItasaj+EjvmuJJsMI+Jd6BBYP+z6Jn/0RsqOjtoNQueXTL14np+p5RHRBBHSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fortunate\\Desktop\\Projects\\Web\\Incident and Infrastructure Management\\Incident.API\\Incident.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fortunate\\.nuget\\packages\\restsharp\\108.0.1\\restsharp.108.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
